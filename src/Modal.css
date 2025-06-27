@@ -1,0 +1,18 @@
+.ReactModal__Content{
+    width: 70%;
+    z-index: 2;
+}
+
+@media only screen and (max-width: 768px) {
+    .ReactModal__Content{
+    width: 90%;
+    top: 70%,
+    }
+}
+
+@media only screen and (max-width: 450px) {
+    .ReactModal__Content{
+    width: 90%;
+    top: 80%,
+    }
+}
