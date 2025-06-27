@@ -39,7 +39,7 @@ function Modal({isOpen , onClose , cartItems , onRemove}){
            
         ) : (
 
-        <ul className="list-none md:h-[450px] h-[200px]">
+        <ul className="list-none md:h-[450px] h-[300px]">
           
           <div className="flex justify-between border-b-1 border-[#d7d4d4] pb-3 items-center">  
             <h3 className="text-[20px] font-semibold hidden md:block">Shopping Cart</h3>
