@@ -36,4 +36,4 @@
 - The `useEffect` hook is used to handle side effects in the application, such as: API calling .
 
 ## Deployed Link
--
+- https://reshoppingcart.netlify.app/
